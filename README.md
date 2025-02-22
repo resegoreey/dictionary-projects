@@ -2,55 +2,64 @@
 
 # 🕵️‍♂️ 1. Anagram Finder --
 
-* Description: Takes a list of words and group anagrams together using a dictionary.
+- Description: Takes a list of words and group anagrams together using a dictionary.
 
-* Concepts Used: String sorting, dictionaries, loops.
+- Concepts Used: String sorting, dictionaries, loops.
 
-* Bonus: Allows users to input their own words to find anagrams.
+- Bonus: Allows users to input their own words to find anagrams.
 
-# 🏠 2. House Chores Tracker --
-* Description: Assigns chores to family members and tracks completion using a dictionary.
+# 🎲 2. Emoji Translator --
 
-* Concepts Used: Nested dictionaries, loops.
+- Description: Creates a dictionary that maps words to emojis. When a user inputs a sentence, replace words with their corresponding emoji.
 
-* Bonus: Awards points for completed chores and display a leaderboard.
+- Concepts Used: Dictionaries, string manipulation.
 
-# 🎭 3. Movie Database --
+- Bonus: Adding a reverse mode that converts emojis back to words.
 
-* Description: Creates a dictionary-based movie database where users can add movies, rate them, and view all stored movies.
+# 🏠 3. House Chores Tracker --
 
-* Concepts Used: Nested dictionaries, user input, dictionary manipulation.
+- Description: Assigns chores to family members and tracks completion using a dictionary.
 
-* Bonus: Allows sorting movies by rating.
+- Concepts Used: Nested dictionaries, loops.
 
-# 🎮 4. RPG Character Creator --
+- Bonus: Awards points for completed chores and display a leaderboard.
 
-* Description: Creates a program where users can design an RPG character with stats stored in a dictionary.
+# 🎭 4. Movie Database --
 
-* Concepts Used: Nested dictionaries, random module.
+- Description: Creates a dictionary-based movie database where users can add movies, rate them, and view all stored movies.
 
-*Bonus: Allowing characters to "level up" by increasing stats.
+- Concepts Used: Nested dictionaries, user input, dictionary manipulation.
 
-# 🛍 5. Shopping Cart System --
+- Bonus: Allows sorting movies by rating.
 
-* Description: Builds a text-based shopping cart where users can add, remove, and view items along with their prices using a dictionary.
+# 🎮 5. RPG Character Creator --
 
-* Concepts Used: Dictionaries, loops, functions.
+- Description: Creates a program where users can design an RPG character with stats stored in a dictionary.
 
-* Bonus: Implementing a checkout system that calculates the total.
+- Concepts Used: Nested dictionaries, random module.
 
-# 🏆 6. Student Grades Tracker --
+\*Bonus: Allowing characters to "level up" by increasing stats.
 
-* Description: Stores student names as keys and a list of their grades as values. Allow adding grades and calculating averages.
+# 🛍 6. Shopping Cart System --
 
-* Concepts Used: Dictionaries, lists, loops, functions.
+- Description: Builds a text-based shopping cart where users can add, remove, and view items along with their prices using a dictionary.
 
-*Bonus: Implementing a ranking system to show the top students.
+- Concepts Used: Dictionaries, loops, functions.
 
-# 🔍 7. Word Frequency Counter --
+- Bonus: Implementing a checkout system that calculates the total.
 
-* Description: Builds a program that takes a paragraph of text and counts how often each word appears using a dictionary.
+# 🏆 7. Student Grades Tracker --
 
-* Concepts Used: String manipulation, dictionaries, loops.
+- Description: Stores student names as keys and a list of their grades as values. Allow adding grades and calculating averages.
 
-* Bonus: Ignoring common words (e.g., "the," "is") and make it case-insensitive
+- Concepts Used: Dictionaries, lists, loops, functions.
+
+\*Bonus: Implementing a ranking system to show the top students.
+
+# 🔍 8. Word Frequency Counter --
+
+- Description: Builds a program that takes a paragraph of text and counts how often each word appears using a dictionary.
+
+- Concepts Used: String manipulation, dictionaries, loops.
+
+- Bonus: Ignoring common words (e.g., "the," "is") and make it case-insensitive
